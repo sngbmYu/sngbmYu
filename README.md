@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=sngbmYu&color=000000&fontColor=ffffff&animation=fadeIn)
 #### Hi, there! Welcome to my github! 🙌
 
-## Skills
+## 🛠Skills🛠
 
-### what I learning now
+### ✏ what I learning now
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
-### used at least once
+### ☝ used at least once
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
