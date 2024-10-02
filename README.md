@@ -1,24 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=sngbmYu&color=000000&fontColor=ffffff&animation=fadeIn)
-#### Hi, there! Welcome to my github! 🙌
+#### 효율적인 코드를 작성하기 위해 끊임없이 고민하는 백엔드 개발자, 유승범입니다.
 
 ## 🛠Skills🛠
 
-### ✏ what I learning now
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/NODE.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</div>
-
-<br />
-
-### ☝ used at least once
 
 #### Front-end
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
